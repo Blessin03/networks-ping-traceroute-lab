@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Allow PDFs explicitly
+!*.pdf
