@@ -63,3 +63,19 @@ tracert www.ufl.edu
 tracert www.uq.edu.au 
 tracert www.uwi.edu 
 ```
+
+## Why This Matters
+
+These tests show that I can measure and interpret real network behavior.
+
+I verified reachability using ICMP.
+
+I measured latency and compared RTT across different geographic distances.
+
+I tested large packets and identified MTU limits and fragmentation effects.
+
+I analyzed routing paths using hop counts and traceroute output.
+
+I identified packet loss patterns and linked them to network constraints.
+
+This shows I understand latency, packet loss, routing paths, MTU limits, and ICMP behavior in a live network.
